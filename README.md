@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 Hello, I'm Vinayak, a dedicated Software Engineer with a strong academic foundation in Computer Science. I enjoy building robust web applications and solving complex challenges. My focus lies in full-stack development, with a strong foundation in Data Structures and Algorithms, which helps me write efficient and scalable code. 
 
