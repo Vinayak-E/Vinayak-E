@@ -10,3 +10,6 @@ I'm a dedicated Software Engineer with a strong academic foundation in Computer 
 - 🎯 **Goals**: Building scalable and high-performance systems.
 - 🤝 **Open to collaborate on**: Open-source projects, especially those related to JavaScript frameworks, backend architecture, and algorithm optimization.
 - ⚡ **Fun fact**: I love exploring new tech tools!
+
+
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-E&show_icons=true&theme=transparent)
